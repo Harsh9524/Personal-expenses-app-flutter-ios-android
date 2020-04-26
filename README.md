@@ -1,10 +1,7 @@
-# time_management
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
+![](ss1.png)
+![](ss2.png)
+![](ss3.png)
+![](ss4.png)
 
 A few resources to get you started if this is your first Flutter project:
 
